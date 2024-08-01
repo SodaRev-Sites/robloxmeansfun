@@ -12,7 +12,7 @@ function animateHeader() {
 function animateMarquee() {
     const marquee = document.querySelector('marquee');
     let texts = [
-        'ROBLOX MEANS FUN! JOIN US IN WWW.ROBLOX.MEANSFUN!',
+        'ROBLOX MEANS FUN! JOIN US IN WWW.ROBLOXMEANSFUN.COM!',
         'WELCOME TO THE BEST ROBLOX FAN SITE!',
         'GET FREE BITCOIN SPONSORED BY ROBLOX.FUN!',
         'DON\'T MISS OUT ON THE FUN, JOIN US NOW!'
